@@ -76,4 +76,6 @@ After sifting, only some of images remain out of 1012 images, there for apply 90
 
  Possible additional works 
  - applying transformer based model such as DETR
+    (https://arxiv.org/abs/2005.12872)
  - stacking OpenStreetMap data to given input, from OSM API
+    (https://www.openstreetmap.org/)
